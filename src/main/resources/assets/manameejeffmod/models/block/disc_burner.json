@@ -1,0 +1,9 @@
+{
+  "parent": "manameejeffmod:block/side",
+  "textures": {
+    "bottom": "manameejeffmod:block/disc_burner_top",
+    "top": "manameejeffmod:block/disc_burner_top",
+    "side": "manameejeffmod:block/disc_burner_side",
+    "front": "manameejeffmod:block/disc_burner_front"
+  }
+}

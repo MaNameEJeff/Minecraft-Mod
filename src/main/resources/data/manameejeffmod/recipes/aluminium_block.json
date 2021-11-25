@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "manameejeffmod:aluminium_ingot"
+    }
+  },
+  "result": {
+    "item": "manameejeffmod:aluminium_block"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.manameejeff2.manameejeffmod.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "DefaultBiomeFeaturesMixin"
+  ],
+  "client": [
+    "ManameejeffModMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

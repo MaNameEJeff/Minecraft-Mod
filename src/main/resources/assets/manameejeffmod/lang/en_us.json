@@ -1,0 +1,12 @@
+{
+  "item.manameejeffmod.raw_aluminium": "Raw Aluminium",
+  "item.manameejeffmod.aluminium_ingot": "Aluminium Ingot",
+  "item.manameejeffmod.empty_disc": "Empty Disc",
+
+  "block.manameejeffmod.aluminium_ore": "Aluminium Ore",
+  "block.manameejeffmod.aluminium_block": "Aluminium Block",
+  "block.manameejeffmod.disc_burner": "Disc Burner",
+
+  "itemGroup.manameejeffmod.aluminium_block": "Disc Burner Mod",
+  "tooltip.manameejeffmod.disc_burner": "Add a song to an empty disc"
+}

@@ -1,0 +1,23 @@
+{
+  "variants": {
+
+    "facing=north": {
+      "model": "manameejeffmod:block/disc_burner"
+    },
+
+    "facing=east":  {
+      "model": "manameejeffmod:block/disc_burner",
+      "y":  90
+    },
+
+    "facing=south": {
+      "model": "manameejeffmod:block/disc_burner",
+      "y": 180
+    },
+
+    "facing=west":  {
+      "model": "manameejeffmod:block/disc_burner",
+      "y": 270
+    }
+  }
+}
